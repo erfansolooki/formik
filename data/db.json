@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "erfan",
+      "email": "erfansolooki20@gmail.com",
+      "phoneNumber": "97177170411",
+      "password": "900",
+      "passwordConfirmation": "900",
+      "gender": "0",
+      "city": "Tehran",
+      "checked": [
+        "two"
+      ],
+      "termsOfService": true,
+      "id": 1
+    }
+  ]
+}
